@@ -5,8 +5,12 @@ In 60 minutes, you have to create a registration form using HTML and CSS
 
 ## General Rules
 - Style, alignment, and coloring must be done using CSS
+  - Font Family: Arial, Helvetica, sans-serif
+  - Button and link color: dodgerblue
+  - Gray Color: #f1f1f1
 
-## Required Material
+## Preparation
+You have to understand following lessons to create this final project
 - HTML Tag
   - Head
   - Body
