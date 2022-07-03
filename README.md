@@ -1,6 +1,8 @@
 # Sokrates-HCI Final Project
 In 60 minutes, you have to create a registration form using HTML and CSS
 
+![Preview](https://github.com/alexanderutama/Sokrates-HCI/blob/main/preview.png?raw=true)
+
 ## General Rules
 - Style, alignment, and coloring must be done using CSS
 
