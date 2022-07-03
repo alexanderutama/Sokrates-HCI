@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sokrates Registration Form</title>
+        <link rel="Shortcut Icon" href="icon/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+
+    <body>
+        <form action="#" />
+            <p>
+                <image class="logo" src="images/logo.png" />
+                <h2>Register</h2>
+                <p>Please fill in this form to create Sokrates account</p>
+                <hr />
+            </p>
+
+            <p>
+                <p class="title">Email</p>
+                <input class="full gray" type="text" name="email" placeholder="Enter email" required/>
+            </p>
+
+            <p>
+                <p class="title">Password</p>
+                <input class="full gray" type="password" name="password" placeholder="Enter password" required/>
+            </p>
+
+            <p>
+                <p class="title">Confirm Password</p>
+                <input class="full gray" type="password" name="cpassword" placeholder="Repeat password" required/>
+            </p> 
+
+            <p>
+                <p class="title">Gender</p>
+                <p>
+                    <label class="full"><input type="radio" name="gender" value="male" checked/> Male </label>
+                    <label class="full"><input type="radio" name="gender" value="female"/> Female </label>
+                </p>
+            </p>
+
+            <p>
+                <p class="title">Date of Birth</p>
+                <input class="full gray" type="date" name="dob" value="1980-01-01"/>
+            </p>
+            
+            <p>
+                <label>
+                    <input type="checkbox" name="agree" required/>
+                    I am agree with <a href="#">Terms & Privacy</a> and would like to receive any marketing promo
+                </label>
+            </p>
+            
+            <p>
+                <input class="full blue" type="submit" value="Register"/>
+            </p>
+
+        </form>
+
+        <p class="footer">
+            Already have an account? <a href="#">Sign in</a>
+        </p>
+    </body>
+</html>

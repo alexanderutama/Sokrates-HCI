@@ -1,0 +1,52 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:10px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 175px;
+}
+
+.gray{
+    background-color: #f1f1f1;
+}
+
+.full{
+    width: 100%;
+    padding: 15px;
+    display: inline-block;
+    font-size: medium;
+    border: none;
+}
+
+hr{
+    border: 1px solid #f1f1f1;
+}
+
+a{
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+.blue{
+    background-color:dodgerblue;
+    color:azure;
+    border: none;
+    opacity:0.9;
+    cursor: pointer;
+}
+.blue:hover{
+    opacity:1;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.footer{
+    text-align: center;
+}
