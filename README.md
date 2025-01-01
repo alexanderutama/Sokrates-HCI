@@ -1,5 +1,5 @@
 # Sokrates-HCI Final Project
-In 60 minutes, you have to create a registration form using HTML and CSS
+60 minutes exercises to create a registration form using HTML and CSS
 
 ![Preview](https://github.com/alexanderutama/Sokrates-HCI/blob/main/preview.png?raw=true)
 
